@@ -1,5 +1,5 @@
 const Benchmark = require('benchmark');
-const prettifyBenchmark = require('prettify-benchmark');
+const prettifyBenchmark = require('./prettify-benchmark');
 
 const reactRender = require('./react');
 const handlebarsRender = require('./handlebars');

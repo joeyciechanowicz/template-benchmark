@@ -1,0 +1,14 @@
+{
+  "name": "prettify-benchmark",
+  "version": "1.0.0",
+  "description": "Pretty output for a benchmark.js suite",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Joey Ciechanowicz",
+  "license": "MIT",
+  "dependencies": {
+    "benchmark": "~2.1.4",
+    "table": "^5.2.2"
+  }
+}
